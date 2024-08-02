@@ -1,6 +1,7 @@
 package com.gabma.picpay_challenge.domain.transaction;
 
 import com.gabma.picpay_challenge.domain.user.User;
+import com.gabma.picpay_challenge.dtos.TransactionDTO;
 import jakarta.persistence.*;
 import lombok.*;
 
